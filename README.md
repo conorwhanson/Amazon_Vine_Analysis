@@ -4,16 +4,17 @@ The purpose of this analysis is to utilize PySpark, AWS Databases, and PostgreSQ
 ### Results
 **Vine Reviews**
 - There were a total of **47** Vine program reviews on watches.
-    ![vine_reviews]()
+    ![vine_reviews](https://github.com/conorwhanson/Amazon_Vine_Analysis/blob/main/resources/vine_reviews.png)
+
 - Of the total reviews there were **15** 5-star reviews from Vine program subscribers.
-    ![vine_5star]()
+    ![vine_5star](https://github.com/conorwhanson/Amazon_Vine_Analysis/blob/main/resources/vine_5star.png)
 - This amounts to 5-star ratings making up **32 %** of total Vine reviews.
 
 **Non-Vine Reviews**
 - There were a total of **8362** non-Vine reviews.
-    ![nonvine_reviews]()
+    ![nonvine_reviews](https://github.com/conorwhanson/Amazon_Vine_Analysis/blob/main/resources/nonvine_reviews.png)
 - Of the total reviews there were **4332** 5-star reviews from non-Vine subscribers.
-    ![nonvine_5star]()
+    ![nonvine_5star](https://github.com/conorwhanson/Amazon_Vine_Analysis/blob/main/resources/nonvine_5star.png)
 - This amounts to 5-star ratings making up **52 %** of total non-Vine reviews.
 
 ### Summary & Recommendations
